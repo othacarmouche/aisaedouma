@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eugheusef.theconceptcreators.com/sitemap.xml
